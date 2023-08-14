@@ -10,3 +10,4 @@ Does this work?
 Is it a live thing or do i need to push each time?
 print("I don't like GitHub so far lol.")
 "now i can't figure out how to add you Tre! haha"
+"Update: I made the repository public... But still can't figure out how to send you a request"
