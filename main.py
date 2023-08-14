@@ -1,16 +1,8 @@
-# This is a sample Python script.
+# This program will be used to do the following;
+# 1) Automatically download the Firebelly calendar into a CSV file on the last day of the month
+# 2) Scan the CSV file for, media links, schedule dates, copy/caption text
+# 3) Download the media linked in the CSV file and then upload it to social media, given perameters.
+# 4) Repeat daily
+# 5) At the end of each month, it can identify a new calendar tab and will read from there.
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+Does this work?
