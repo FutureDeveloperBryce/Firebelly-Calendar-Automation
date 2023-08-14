@@ -6,3 +6,6 @@
 # 5) At the end of each month, it can identify a new calendar tab and will read from there.
 
 Does this work?
+"I can't tell if this works... -_-"
+Is it a live thing or do i need to push each time?
+print("I don't like GitHub so far lol.")
